@@ -1,0 +1,4 @@
+ToolSet: w64 5.0 (local)@C:\PROGRA~1\HASKEL~1\86E4AC~1.5\mingw
+Options: 
+
+Options:
