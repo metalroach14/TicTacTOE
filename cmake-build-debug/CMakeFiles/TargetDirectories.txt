@@ -1,0 +1,3 @@
+C:/Users/grade/CLionProjects/knights/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/grade/CLionProjects/knights/cmake-build-debug/CMakeFiles/knights.dir
+C:/Users/grade/CLionProjects/knights/cmake-build-debug/CMakeFiles/edit_cache.dir
